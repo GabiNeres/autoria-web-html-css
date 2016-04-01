@@ -1,0 +1,36 @@
+h2{
+color:#cd637c;
+text-transform:uppercase;
+font-size:20px;
+text-align:right;}
+
+*{padding:0;
+margin:0;
+font-family:calibri;
+color:#565656;
+}
+body{
+background-image:url(bg.png);
+background-attachment:fixed;
+}
+body a{
+text-decoration:none;
+}
+
+.title{
+font-family: 'Libre Baskerville', serif;
+font-size: 17px;
+text-align: center;
+width: 110px;
+height: auto;
+font-style: italic;
+text-shadow: 2px 2px 1px #e4e4e4;
+color: #cd637c;
+word-wrap: break-word;
+margin-top:20px;
+margin-left: 40px;
+line-height: 90%;
+}
+b,i{
+color:#cd637c;
+}
